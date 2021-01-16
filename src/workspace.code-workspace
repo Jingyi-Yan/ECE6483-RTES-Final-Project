@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/js-bootcamp"
+		},
+		{
+			"name": "Test",
+			"path": "../../Test"
+		},
+		{
+			"name": "myNewProject",
+			"path": "../../myNewProject"
+		},
+		{
+			"name": "final_project",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
